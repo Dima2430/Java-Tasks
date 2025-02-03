@@ -1,4 +1,4 @@
-package Task05;
+package easy;
 import java.util.Scanner;
 public class howManySeconds {
    

@@ -1,4 +1,4 @@
-package Task14;
+package easy;
 import java.util.Scanner;
 
 public class nameShuffle {

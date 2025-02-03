@@ -1,4 +1,4 @@
-package Task08;
+package easy;
 
 public class countTrue {
     static int countTrueF(boolean[] arr) {

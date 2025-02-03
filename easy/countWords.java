@@ -1,3 +1,4 @@
+package easy;
 class countWords {
 public static int countF(String str) {
 return str.split(" ").length;

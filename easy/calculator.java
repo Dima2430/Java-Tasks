@@ -1,4 +1,4 @@
-package Task12;
+package easy;
 import java.util.Scanner;
 
 public class calculator {

@@ -1,3 +1,4 @@
+package easy;
 public class existsHigher {
     public static boolean existsHigherNumber(int[] arr, int num) {
 

@@ -1,4 +1,4 @@
-package Task07;
+package easy;
 public class nextEdge {
     public static int calc(int side1, int side2) {
         return (side1 + side2) - 1;

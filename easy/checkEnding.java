@@ -1,4 +1,4 @@
-package Task10;
+package easy;
 public class checkEnding {
     public static boolean checkingEnding(String str, String ending) {
         return str.endsWith(ending);

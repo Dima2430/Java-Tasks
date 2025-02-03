@@ -1,5 +1,5 @@
-package Task01;
 
+package easy;
 public class SumOfTwoNumbers {
     int num1;
     int num2;

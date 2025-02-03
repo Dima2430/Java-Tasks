@@ -1,4 +1,5 @@
-package Task04;
+package easy;
+
 
 public class addition {
     int num;

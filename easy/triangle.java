@@ -1,4 +1,4 @@
-package Task11;
+package easy;
 
 public class triangle {
     public static double dots(int dots) {

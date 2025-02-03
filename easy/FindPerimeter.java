@@ -1,5 +1,5 @@
-package Task03;
 
+package easy;
 public class FindPerimeter {
     int firstSide;
     int secondSide;

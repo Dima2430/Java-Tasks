@@ -1,4 +1,4 @@
-package Task15;
+package easy;
 
 public class discount {
     public static double priceWithDiscount(int price, int discount) {

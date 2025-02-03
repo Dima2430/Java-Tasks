@@ -1,4 +1,4 @@
-package Task16;
+package easy;
 public class stutter {
     public static String stutterWord(String str) {
         String firstTwoLetters = str.substring(0, 2).concat("... ");

@@ -1,4 +1,4 @@
-package Task06;
+package easy;
 
 public class isSameNum {
     public static boolean checkIfSameNum(int num1, int num2) {
