@@ -1,4 +1,4 @@
-
+package easy;
 
 public class Programmers {
     public static int getDifference(int num1, int num2, int num3) {

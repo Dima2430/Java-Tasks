@@ -1,5 +1,5 @@
 package easy;
-public class PhoneForm {
+public class NumberForm {
     public static String formatPhoneNumber(int[] numbers) {
         if (numbers.length != 10) {
             throw new IllegalArgumentException("Array must have exactly 10 digits.");
