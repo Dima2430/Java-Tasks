@@ -1,10 +1,10 @@
 package easy;
 
 
-public class addition {
+public class Addition {
     int num;
     
-    public addition(int num) {
+    public Addition(int num) {
         this.num = num;
 
     }
@@ -14,7 +14,7 @@ public class addition {
     }
 
     public static void main(String[] args) {
-        addition add = new addition(-29);
+        Addition add = new Addition(-29);
 System.out.println(add.add());
     }
 }
