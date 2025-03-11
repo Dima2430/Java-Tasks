@@ -1,10 +1,11 @@
 package medium;
-
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class RockPaperScissors {
      static int playerScore = 0;
-        static int robotScore = 0;
+     static int robotScore = 0;
+     static ArrayList<Character> playerMoves = new ArrayList<>();
     public static char getI() {
         double random = Math.random() * 3 + 1;
         int rounded = (int) Math.round(random);
@@ -58,6 +59,7 @@ public class RockPaperScissors {
         Scanner scanner = new Scanner(System.in);
         while (robotScore < 3 && playerScore < 3) {
             String input = scanner.nextLine();
+            playerMoves.add(input.charAt(0));
             System.out.println(getWinner(input.charAt(0)));
         }
         if (playerScore >= 3) {
