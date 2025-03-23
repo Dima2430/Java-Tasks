@@ -1,4 +1,4 @@
-package hard;
+
 
 public class SevenBoom {
     public static String sevenBoom(int[] nums) {
